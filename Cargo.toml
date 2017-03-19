@@ -1,0 +1,8 @@
+[package]
+name = "sort-compare"
+version = "0.1.0"
+authors = ["Xidorn Quan <me@upsuper.org>"]
+license = "MIT"
+
+[dependencies]
+rand = "0.3"
